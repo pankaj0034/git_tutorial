@@ -1,2 +1,1 @@
-## hell o how are you 
-## thi sis the practice session for moving ahed with students
+hello this is initial step to learn how to use git and github
